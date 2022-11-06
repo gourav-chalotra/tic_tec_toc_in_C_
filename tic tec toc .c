@@ -1,4 +1,4 @@
-// 🤗 Hy and raad my code 🤗
+// 🤗 Enjoy the code🤗
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
