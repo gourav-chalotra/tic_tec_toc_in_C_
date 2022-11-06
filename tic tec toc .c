@@ -1,4 +1,4 @@
-// 🤗 Enjoy the code🤗
+// 🤗 Copy and run the game and enjoy🤗
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
